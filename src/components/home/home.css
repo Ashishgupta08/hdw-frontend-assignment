@@ -1,0 +1,7 @@
+.bg-navy {
+    background-color: var(--color-primary) !important;
+}
+
+.bg-black-10 {
+    background-color: rgba(0,0,0,.1);
+}
